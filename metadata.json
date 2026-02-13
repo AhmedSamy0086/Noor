@@ -1,0 +1,8 @@
+{
+  "name": "Noor Smart Coaching - Tennis Performance Pro",
+  "description": "نظام نور للتدريب الذكي: تحليل فوري لأداء التنس باستخدام الذكاء الاصطناعي وتقنيات تتبع الحركة المتقدمة.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
